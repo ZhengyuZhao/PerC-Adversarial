@@ -3,12 +3,12 @@ This repository presents the PyTorch code for the arXiv paper:
 **Title**  
 Zhengyu Zhao, Zhuoran Liu, and Martha Larson. [[Paper]]()
 <p align="center">
-  <img src="https://github.com/ZhengyuZhao/color_adversarial/blob/master/figures/figure1.PNG" width='300'>
+  <img src="https://github.com/ZhengyuZhao/color_adversarial/blob/master/figures/figure1.PNG" width='600'>
 </p>
-In this paper, we address the issue of quantifying the imperceptibility of adversarial perturbations with tight $L_p$-norm constraints in perception-agnostic RGB space.
-Specifically, we propose to optimize the perturbations with respect to perceptual color differences obtained by the introduced perceptual color distance metric, and further develop a novel decoupling approach to improve efficiency.
+We question the commonly agreed assumption that the imperceptibility of adversarial perturbations corresponds to tight $L_p$-norm constraints in perception-agnostic RGB space.
+Specifically, we propose two approaches to strategically relax such tight constraints while still maintaining imperceptibility by using a perceptually uniform color distance metric.
 The resulting large yet imperceptible perturbations lead to improved robustness and transferability.
-Integrating additional structural information into the proposed efficient approach yields further improvement on imperceptibility, and raise a general concern about a new type of adversary that can leverage perceptual properties of the image for stronger but still imperceptible adversarial examples.
+Integrating additional structural information into the proposed efficient approach yields further improvement on imperceptibility of the images that contain the areas with rich textures.
 
 
 ## Implementation
