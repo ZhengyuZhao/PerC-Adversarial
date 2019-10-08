@@ -1,7 +1,7 @@
 ## About
-This repository presents the PyTorch code for the arXiv paper: 
+PyTorch code for our arXiv article:
+
 [**Achieving large yet imperceptible adversarial image perturbations with perceptual color distance metric**](https://github.com/tensorflow/cleverhans/blob/master/examples/nips17_adversarial_competition/dataset/download_images.py)
-Zhengyu Zhao, Zhuoran Liu, and Martha Larson.
 <p align="center">
   <img src="https://github.com/ZhengyuZhao/color_adversarial/blob/master/figures/figure1.PNG" width='600'>
 </p>
