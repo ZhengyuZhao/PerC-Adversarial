@@ -29,3 +29,23 @@ Run [this official script](https://github.com/tensorflow/cleverhans/blob/master/
 ### Experiments
 Code for all the experiments along with descriptions can be found in the Jupyter Notebook file ```main.ipynb```.
 Detailed parameter settings for the proposed two approach are described in ```perc_cw.py``` and ```perc_al.py```.
+
+### Examples
+<p align="center">
+  <img src="https://github.com/ZhengyuZhao/color_adversarial/blob/master/figures/figure3_appendix_1.PNG" width='1000'>
+</p>
+<p align="center">
+  <img src="https://github.com/ZhengyuZhao/color_adversarial/blob/master/figures/figure3_appendix_2.PNG" width='1000'>
+</p>
+<p align="center">
+  <img src="https://github.com/ZhengyuZhao/color_adversarial/blob/master/figures/figure3_appendix_3.PNG" width='1000'>
+</p>
+<p align="center">
+  <img src="https://github.com/ZhengyuZhao/color_adversarial/blob/master/figures/figure3_appendix_4.PNG" width='1000'>
+</p>
+<p align="center">
+  <img src="https://github.com/ZhengyuZhao/color_adversarial/blob/master/figures/figure3_appendix_5.PNG" width='1000'>
+</p>
+<p align="center">
+  <img src="https://github.com/ZhengyuZhao/color_adversarial/blob/master/figures/figure3_appendix_6.PNG" width='1000'>
+</p>
