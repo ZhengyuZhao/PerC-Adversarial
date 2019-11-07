@@ -1,7 +1,7 @@
 ## About
 PyTorch code for our arXiv article:
 
-[**Towards Large yet Imperceptible Adversarial Image Perturbations with Perceptual Color Distance**](https://github.com/tensorflow/cleverhans/blob/master/examples/nips17_adversarial_competition/dataset/download_images.py)
+[**Towards Large yet Imperceptible Adversarial Image Perturbations with Perceptual Color Distance**](https://arxiv.org/abs/1911.02466)
 <p align="center">
   <img src="https://github.com/ZhengyuZhao/color_adversarial/blob/master/figures/figure1.PNG" width='600'>
 </p>
