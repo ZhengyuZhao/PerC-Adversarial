@@ -1,7 +1,7 @@
 ## About
-PyTorch code for our arXiv article:
+PyTorch code for our paper:
 
-[**Towards Large yet Imperceptible Adversarial Image Perturbations with Perceptual Color Distance**](https://arxiv.org/abs/1911.02466)
+[**Zhengyu Zhao, Zhuoran Liu, Martha Larson, "Towards Large yet Imperceptible Adversarial Image Perturbations with Perceptual Color Distance", CVPR 2020.**](https://arxiv.org/abs/1911.02466)
 <p align="center">
   <img src="https://github.com/ZhengyuZhao/color_adversarial/blob/master/figures/figure1.PNG" width='600'>
 </p>
