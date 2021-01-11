@@ -22,9 +22,9 @@ This code contains the implementations of:
 ### Requirements
 torch>=1.1.0; torchvision>=0.3.0; tqdm>=4.31.1; pillow>=5.4.1; matplotlib>=3.0.3;  numpy>=1.16.4; 
 
-### Download data
+### Dataset
 
-Run [this official script](https://github.com/tensorflow/cleverhans/blob/master/examples/nips17_adversarial_competition/dataset/download_images.py) to download the dataset.
+The 1000 images of the ImageNet-Compatible dataset are provided in the folder ```dataset/images```, along with their descriptions in  ```dataset/images.csv```, including their URLs, cropping bounding boxes, classification labels and some other metadata. More details on this dataset can be found in [its official repository](https://github.com/tensorflow/cleverhans/blob/master/examples/nips17_adversarial_competition/dataset).
 
 ### Experiments
 Code for all the experiments along with descriptions can be found in the Jupyter Notebook file ```main.ipynb```.
